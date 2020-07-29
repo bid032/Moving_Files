@@ -1,6 +1,28 @@
+
+
+
+
+logo = """
+
+ _______ _     ____ _______                  _             _             
+|__   __| |   |___ \__   __|                (_)           | |            
+   | |  | |__   __) | | | ___ _ __ _ __ ___  _ _ __   __ _| |_ ___  _ __ 
+   | |  | '_ \ |__ <  | |/ _ \ '__| '_ ` _ \| | '_ \ / _` | __/ _ \| '__|
+   | |  | | | |___) | | |  __/ |  | | | | | | | | | | (_| | || (_) | |   
+   |_|  |_| |_|____/  |_|\___|_|  |_| |_| |_|_|_| |_|\__,_|\__\___/|_| 
+					
+		    TH3 TERMINATOR SCRIPT TOOL :")
+		   Coded by Bido. => Abdallah Ahmed
+		   https://www.facebook.com/bido.32
+"""
+
+
+print(logo)
+
+
+
 import os
 import shutil
-
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
